@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>d8732349cbe3ba46021a86345bb98c4c.ico</ApplicationIcon>
+    <AssemblyName>CollosalMW3</AssemblyName>
+    <RootNamespace>CollosalMW3</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="d8732349cbe3ba46021a86345bb98c4c.ico" />
+  </ItemGroup>
+
+</Project>

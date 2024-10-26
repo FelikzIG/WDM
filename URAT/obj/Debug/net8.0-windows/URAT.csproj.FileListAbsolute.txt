@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\URAT.Form1.resources
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\URAT.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\URAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\URAT.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\URAT.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\URAT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\URAT.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\URAT.Form2.resources
+C:\Users\Administrator\Desktop\URAT\URAT\bin\Debug\net8.0-windows\CollosalMW3.exe
+C:\Users\Administrator\Desktop\URAT\URAT\bin\Debug\net8.0-windows\CollosalMW3.deps.json
+C:\Users\Administrator\Desktop\URAT\URAT\bin\Debug\net8.0-windows\CollosalMW3.runtimeconfig.json
+C:\Users\Administrator\Desktop\URAT\URAT\bin\Debug\net8.0-windows\CollosalMW3.dll
+C:\Users\Administrator\Desktop\URAT\URAT\bin\Debug\net8.0-windows\CollosalMW3.pdb
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\CollosalMW3.dll
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\refint\CollosalMW3.dll
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\CollosalMW3.pdb
+C:\Users\Administrator\Desktop\URAT\URAT\obj\Debug\net8.0-windows\ref\CollosalMW3.dll
